@@ -1,1 +1,1 @@
-# lighthouse-week-1
+# lighthouse-data-notes
